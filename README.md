@@ -1,4 +1,4 @@
-## Typing game using C#
+## Typing Game using C#
 This game is developed in C# and runs on the console platform, this is my first project of programing on UEH (University of Economic Ho Chi Minh City). It features a high score system, instructions, and background music. Players use the keyboard to type the falling characters on the screen. As the player's score increases, the speed of the falling characters increases, adding to the excitement of the game.
 ## Set up:
 Pre-requisite: Install Visual Studio to run the code. Alternatively, you can click on the bin/Debug file and simply download the .exe file to run it. 
