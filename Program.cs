@@ -367,7 +367,7 @@ class Program
             XuLyLuaChon(luaChon);
         } while (true);
     }
-    static void main(string[] args)
+    static void Main(string[] args)
     {
         ThuocTinhConTro(false);
         ThuocTinhCuaSo();

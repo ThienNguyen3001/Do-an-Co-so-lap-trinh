@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2022\Do-an-Co-so-lap-trinh\obj\Debug\TypingGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Do-an-Co-so-lap-trinh\obj\Debug\TypingGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Do-an-Co-so-lap-trinh\bin\Debug\TypingGame.exe.config
+C:\Users\Admin\Documents\Visual Studio 2022\Do-an-Co-so-lap-trinh\bin\Debug\TypingGame.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Do-an-Co-so-lap-trinh\bin\Debug\TypingGame.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Do-an-Co-so-lap-trinh\obj\Debug\TypingGame.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Do-an-Co-so-lap-trinh\obj\Debug\TypingGame.pdb
